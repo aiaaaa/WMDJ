@@ -54,6 +54,7 @@ The current files provided are the top and bottom panels, in lightburn2 format f
 - I need guidance on making this TSA worthy, buidling a project file database and wiring schematic and battery datasheet ect.
 - I need guidance on a good mobile speaker with 0 latency and very durable, good TSA approved battery
 - the goal was to finish the project in aluminium and paint with NATO black, but the wood gurilla look was popular in prototyping
+- the laser laithe used is a bit shakey, and some of the cuts show some wobble
 
 **2D file review
 - add images here of lbrn2 file layers 
