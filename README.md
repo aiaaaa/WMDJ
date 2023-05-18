@@ -30,6 +30,9 @@ The current files provided are the top and bottom panels, in lightburn2 format f
 
 ![IMG_2165](https://github.com/aiaaaa/WMDJ/assets/38403966/8b6b7866-6234-47af-ad12-489bd0a36a9e)
 
+![IMG_2167](https://github.com/aiaaaa/WMDJ/assets/38403966/32692d3c-ea7e-44e4-8b64-c9faf1bf4e09)
+
+
 **Parts List
 - Hercules DJ Starlight - really fun unit, if you know anyone at Hercules please get in contact! I really love the product)
 - rPi4
