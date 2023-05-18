@@ -33,6 +33,9 @@ ADD PICTURES
 - Hercules DJ Starlight
 - rPi4
 - Monitor control board (HDMI TYPE-C LCD Controller Board VS-RTD2556HC30-V1)
+- Monitor 11.6in (N116HSE-EB1(or replacement model:N116HSE-EA1 REV.C1 N116HSE-EJ1 and so on)
+- Keychron V1Z3
+- Desired Panel Mount IO
 
 **Gaps and things to be done
 - there is no mount to the case bottom, I will need to 3d print peices to sit on the pellican cross mounts, or superglue mount points
