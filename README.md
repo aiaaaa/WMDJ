@@ -26,6 +26,8 @@ The current files provided are the top and bottom panels, in lightburn2 format f
 
 **Pictures:
 
+![IMG_2166](https://github.com/aiaaaa/WMDJ/assets/38403966/e5b04183-e1b9-4525-bce6-5919c9d41beb)
+
 ![IMG_2165](https://github.com/aiaaaa/WMDJ/assets/38403966/8b6b7866-6234-47af-ad12-489bd0a36a9e)
 
 **Parts List
