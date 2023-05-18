@@ -48,6 +48,7 @@ ADD PICTURES
 - right bottom panel mount is a bit wide, cosmetic issue, but need to roll back that panel to r1
 - I need guidance on making this TSA worthy, buidling a project file database and wiring schematic and battery datasheet ect.
 - I need guidance on a good mobile speaker with 0 latency and very durable, good TSA approved battery
+- the goal was to finish the project in aluminium and paint with NATO black, but the wood gurilla look was popular in prototyping
 
 **2D file review
 - add images here of lbrn2 file layers 
