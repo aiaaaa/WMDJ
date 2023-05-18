@@ -7,8 +7,8 @@ Operation: unplanned obsolescence
 
 Welcome to the open source DJ cyberdeck project, sponsored by myself and hackerspace SUDOROOM in Oakland CA.
 
-The project started as an art piece, in protest of the modern/popular practice of planned obsolescence
-
+The project started as an art piece, in protest of the modern/popular practice of planned obsolescence, and building electronics with no repair considerations.
+ 
 Project Codenames include:
 WMDJ - Weatherproof and Modular DJ 
 Operation: unplanned obsolescence 
