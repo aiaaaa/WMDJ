@@ -10,13 +10,12 @@ Welcome to the open source DJ cyberdeck project, sponsored by myself and hackers
 The project started as an art piece, in protest of the modern/popular practice of planned obsolescence, and designing electronics that can't be updated or repaired.
  
 Project Codenames include:
-
-WMDJ - Weatherproof and Modular DJ 
-Operation: unplanned obsolescence 
-Dj doomday
-The programmers djbox
-DjAPI, DJ API 
-DJ://7his.machine.kills.fascis7s
+- WMDJ - Weatherproof and Modular DJ 
+- Operation: unplanned obsolescence 
+- Dj doomday
+- The programmers djbox
+- DjAPI, DJ API 
+- DJ://7his.machine.kills.fascis7s
 
 
 **Project Description and Status:
