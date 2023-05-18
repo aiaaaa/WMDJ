@@ -35,6 +35,7 @@ The current files provided are the top and bottom panels, in lightburn2 format f
 
 **Parts List
 - Hercules DJ Starlight - really fun unit, if you know anyone at Hercules please get in contact! I really love the product)
+- Pelican 1500 (same if anyone knows someone at Pelican, please have them reach out, A+ top product, example of craftmanship)
 - rPi4
 - monitor control board (HDMI TYPE-C LCD Controller Board VS-RTD2556HC30-V1)
 - monitor 11.6in (N116HSE-EB1(or replacement model:N116HSE-EA1 REV.C1 N116HSE-EJ1 and so on)
