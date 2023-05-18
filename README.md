@@ -26,7 +26,7 @@ The current files provided are the top and bottom panels, in lightburn2 format f
 
 **Pictures:
 
-ADD PICTURES
+![IMG_2165](https://github.com/aiaaaa/WMDJ/assets/38403966/8b6b7866-6234-47af-ad12-489bd0a36a9e)
 
 **Parts List
 - Hercules DJ Starlight - really fun unit, if you know anyone at Hercules please get in contact! I really love the product)
