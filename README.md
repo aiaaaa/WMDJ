@@ -22,10 +22,9 @@ DJ://7his.machine.kills.fascis7s
 
 The following project was built entirely at the hackerspace SUDOROOM, all tools and processes are supported here to make your own unit
 
-The files provided are the top and bottom panels, in lightburn2 format for use on a lightburn supporting laser laithe
+The current files provided are the top and bottom panels, in lightburn2 format for use on a lightburn supporting laser laithe
 
 **Pictures:
-**
 
 ADD PICTURES
 
@@ -41,6 +40,11 @@ ADD PICTURES
 - there is no mount to the case bottom, I will need to 3d print peices to sit on the pellican cross mounts, or superglue mount points
 - the Hurcules DJ wrap is not very accurate, I could use some help getting the edges to mount flush/perfect
 - some of the control items are just for show atm (SNES inputs, toggle switches, USB IN is not supported on the current battery
+- sometimes when booting into MIXX with the DJ Starlight, Vinyl control is disabled and the button does not toggle, restart required
+- some cammand in MIXX are mouse only? need to reach out to MIXX ceators/mods and help build out a more complete keyboard only workflow
+- right bottom panel mount is a bit wide, cosmetic issue, but need to roll back that panel to r1
+- I need guidance on making this TSA worthy, buidling a project file database and wiring schematic and battery datasheet ect.
+- 
 
 **2D file review
 - add images of lbrn2 layers and comments and recommended wood thicknesses
