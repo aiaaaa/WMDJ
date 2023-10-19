@@ -5,7 +5,7 @@
 WMDJ - Weatherproof and Modular DJ 
 Operation: unplanned obsolescence 
 
-<img width="1736" alt="Screenshot 2023-10-19 at 3 19 10 AM" src="https://github.com/aiaaaa/WMDJ/assets/38403966/e418805c-6657-4178-ba9a-0dca530bfa71">
+<img width="1746" alt="Screenshot 2023-10-19 at 3 27 02 AM" src="https://github.com/aiaaaa/WMDJ/assets/38403966/7d90c762-5506-4223-954c-803d1d841704">
 
 Welcome to the open source DJ cyberdeck project, sponsored by myself and hackerspace SUDOROOM in Oakland CA. https://sudoroom.org
 
