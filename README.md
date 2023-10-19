@@ -63,3 +63,12 @@ The current files provided are the top and bottom panels, in lightburn2 format f
 - add images here of lbrn2 file layers 
 - add comments and recommended wood thicknesses
 
+
+![lubetube tv_isometric_drawing_of_a_pelican_case_open_mini_dj_se_966c5ad9-2161-4d50-bc01-8959466e7704](https://github.com/aiaaaa/WMDJ/assets/38403966/fa58d111-1f17-4fe5-bb3b-a42307ad4457)
+![lubetube tv_isometric_drawing_of_a_pelican_case_open_mini_dj_se_4a3b86c8-6cac-48b7-967e-4e51d057e0c8](https://github.com/aiaaaa/WMDJ/assets/38403966/9b3b75d0-dd74-4c6b-bd9f-c89369da10a3)
+![lubetube tv_isometric_drawing_of_a_pelican_case_open_mini_dj_se_670b38a7-e133-44b5-8430-f27254852d23](https://github.com/aiaaaa/WMDJ/assets/38403966/d99163d5-9a6b-403a-b9c0-fb49a36a53d2)
+![lubetube tv_isometric_drawing_of_a_pelican_case_open_mini_dj_se_73bb13f3-4605-414e-876a-3cb037f90878](https://github.com/aiaaaa/WMDJ/assets/38403966/64187b44-e574-485a-b48c-fd4d7d6bbb44)
+
+
+
+
