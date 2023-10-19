@@ -5,7 +5,7 @@
 WMDJ - Weatherproof and Modular DJ 
 Operation: unplanned obsolescence 
 
-![lubetube tv_isometric_drawing_of_a_pelican_case_open_a_cyberdec_3f8c116b-0628-4e5d-9c77-c50f65af5d9b](https://github.com/aiaaaa/WMDJ/assets/38403966/910baca2-1ee9-4aa5-9d26-19775e7d5870)
+<img width="1736" alt="Screenshot 2023-10-19 at 3 19 10 AM" src="https://github.com/aiaaaa/WMDJ/assets/38403966/e418805c-6657-4178-ba9a-0dca530bfa71">
 
 Welcome to the open source DJ cyberdeck project, sponsored by myself and hackerspace SUDOROOM in Oakland CA. https://sudoroom.org
 
@@ -27,6 +27,8 @@ The following project was built entirely at the hackerspace SUDOROOM in Oakland 
 The current files provided are the top and bottom panels, in lightburn2 format for use on a lightburn supporting laser laithe
 
 **Pictures:
+
+![lubetube tv_isometric_drawing_of_a_pelican_case_open_a_cyberdec_3f8c116b-0628-4e5d-9c77-c50f65af5d9b](https://github.com/aiaaaa/WMDJ/assets/38403966/910baca2-1ee9-4aa5-9d26-19775e7d5870)
 
 ![IMG_2166](https://github.com/aiaaaa/WMDJ/assets/38403966/e5b04183-e1b9-4525-bce6-5919c9d41beb)
 
